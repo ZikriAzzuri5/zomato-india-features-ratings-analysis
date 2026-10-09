@@ -80,7 +80,6 @@ Menambah delivery atau booking kemungkinan tidak akan menaikkan rating dengan se
 ## Isi Repositori
 
 - `zomato-restaurant-features-vs-ratings.ipynb`: notebook analisis lengkap
-- `images/`: grafik yang dipakai di README ini
 - `README.md`: file ini
 
 ## Tools
