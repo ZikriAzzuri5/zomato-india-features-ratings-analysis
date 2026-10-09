@@ -14,7 +14,7 @@ Seorang pemilik restoran ingin rating yang lebih tinggi. Apakah restoran yang me
 
 ## Dataset
 
-- Sumber: Zomato Restaurant Dataset di Kaggle: `<tambahkan link dataset Kaggle>`
+- Sumber: Zomato Restaurant Dataset di Kaggle: https://www.kaggle.com/datasets/srisyra02/zomato-market-analysis
 - 9.551 restoran, 21 kolom, dari beberapa negara
 - Sekitar 90,6% restoran berada di India (country code 1), sehingga analisis dibatasi ke India agar perbandingannya adil
 
