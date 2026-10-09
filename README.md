@@ -88,4 +88,4 @@ Python, pandas, NumPy, seaborn, matplotlib. Dikerjakan di Kaggle Notebook.
 
 ## Notebook
 
-Notebook Kaggle: https://www.kaggle.com/datasets/srisyra02/zomato-market-analysis
+Notebook Kaggle: https://www.kaggle.com/code/zikriazzuri/zomato-india-features-ratings-analysis
