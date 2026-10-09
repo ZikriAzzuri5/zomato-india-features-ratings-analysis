@@ -41,7 +41,7 @@ Selisih rata-rata rating (Yes dikurangi No) di dalam tiap tingkat harga:
 
 Selisihnya kecil dan arahnya campur. Di harga 3-4, restoran **tanpa** booking justru sedikit lebih tinggi ratingnya.
 
-![Rata-rata rating per tingkat harga](images/ratings_by_price.png)
+![Rata-rata rating per tingkat harga](ratings_by_price.png)
 
 ### 2. Votes: delivery berkaitan dengan lebih banyak ulasan
 
@@ -56,8 +56,8 @@ Median votes (No / Yes):
 
 Online delivery punya median votes lebih tinggi di semua tingkat harga. Table booking hanya unggul di harga 2.
 
-![Median votes, online delivery](images/votes_delivery.png)
-![Median votes, table booking](images/votes_booking.png)
+![Median votes, online delivery](votes_delivery.png)
+![Median votes, table booking](votes_booking.png)
 
 ### 3. Kenapa angka mentah menyesatkan
 
